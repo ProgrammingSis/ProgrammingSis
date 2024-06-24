@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingSis&theme=dracula&hide_rank=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingSis&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingSis&langs_count=10)
