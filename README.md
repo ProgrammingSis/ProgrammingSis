@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+ I'm Sara, a university student at USP who
+🌱 I’m currently learning Java, practicing its object oriented programming style and implementing it in a pong game as a university assignment.
+
  🔭 I’m currently working on a Pong Game in Java-->
+
+
+
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
@@ -25,4 +32,4 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingSis&theme=dracula&hide_rank=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammmingSis&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingSis&layout=compact)
