@@ -1,4 +1,4 @@
-## Hi, there! 👋
+## Hi, there! 👩‍💻
 
 <!--
 **ProgrammingSis/ProgrammingSis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,15 +17,19 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Java, practicing its object oriented programming style and implementing it in a pong game as a university assignment.
 
  🔭 I’m currently working on a Pong Game in Java-->
+ 
 I have experience with:
-C - a Low level programming language
+- Low level programming language: C
 
-🌱 I'm currently learning...
+## 🌱 I'm currently learning...
 - Java and the principles of Object-Oriented Programming
-- HMTL, CSS, Javascript  
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingSis&theme=dracula&hide_rank=true)
-
+- HMTL, CSS, Javascript
+ 
+## ⚡ Some curious facts about me:
+- 🎸 I love rock and EDM...
+- 🌍 I'm a language enthusiast! I'm currently learning 4 more languages besides English and my native one (Portuguese)...
+- 🏃‍♀️ I'm a Judo lover
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingSis&langs_count=5)
+
+
