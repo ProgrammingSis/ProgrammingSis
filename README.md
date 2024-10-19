@@ -23,7 +23,7 @@ I have experience with:
 - Java
 
 ## 🌱 I'm currently learning...
-- Java and the principles of Object-Oriented Programming
+- Object-Oriented Programming
 - HMTL, CSS, Javascript
  
 ## ⚡ Some curious facts about me:
