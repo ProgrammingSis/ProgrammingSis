@@ -20,6 +20,7 @@ Here are some ideas to get you started:
  
 I have experience with:
 - Low level programming language: C
+- Java
 
 ## 🌱 I'm currently learning...
 - Java and the principles of Object-Oriented Programming
