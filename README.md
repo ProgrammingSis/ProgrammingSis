@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on a Pong Game in Java-->
  
-I have experience with:
+## I have experience with:
 - Low level programming language: C
 - Java
+- Git
 
 ## 🌱 I'm currently learning...
 - Object-Oriented Programming
