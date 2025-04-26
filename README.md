@@ -3,7 +3,7 @@
 I'm an Information Systems student at the University of São Paulo | EACH and I'm currently working in an internship in Vivo. I have been focusing more on the C language and Java so far. However, I also study and have knowledge in the frontend - having already worked HTLM, CSS -, besides, I'm working in a Schollarship program in USP called PUB, in which I'm learning how to use frameworks such as REACT. In addition, I have been developing an affinity with design: Figma, UI/UX concepts and I have advanced English.
 
 ## ⚡ Some curious facts about me:
-- 🎸 I love rock and EDM...
+- 🎸 I love rock and EDM, being excited about life is just my way of living, of having fresh air and new ideas
 - 🌍 I'm a language enthusiast! I'm currently learning 4 more languages besides English...
 - 🏃‍♀️ I'm a Judo lover
 <!--
