@@ -4,8 +4,8 @@ I'm an Information Systems student at the University of São Paulo | EACH and I'
 
 ## ⚡ Some curious facts about me:
 - 🎸 I love rock and EDM, being excited about life is just my way of living, of having fresh air and new ideas
-- 🌍 I'm a language enthusiast! I'm currently learning 4 more languages besides English...
-- 🏃‍♀️ I'm a Judo lover
+- 🌍 I'm a language enthusiast! I'm currently learning 4 more languages besides English, but they are not my current focal point
+- 🏃‍♀️ I'm a Judo lover. Like in Judo's teachings, I believe respecting opponents and allies is a fuel to the soul and the best way to grow
 <!--
  ✨ _special_ ✨ 
 
