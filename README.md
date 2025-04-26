@@ -6,6 +6,7 @@ I'm an Information Systems student at the University of São Paulo | EACH and I'
 - 🎸 I love rock and EDM, being excited about life is just my way of living, of having fresh air and new ideas
 - 🌍 I'm a language enthusiast! I'm currently learning 4 more languages besides English, but they are not my current focal point
 - 🏃‍♀️ I'm a Judo lover. Like in Judo's teachings, I believe respecting opponents and allies is a fuel to the soul and the best way to grow
+- ⛳ I have a strong interest in leadership and being a part of a community, that's why I volunteered for many years for social causes, mainly educational ones
 <!--
  ✨ _special_ ✨ 
 
